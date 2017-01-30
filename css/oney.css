@@ -1,0 +1,57 @@
+body {
+	padding-top : 50px;
+}
+
+[class*="col-"], footer {
+  line-height: 40px;
+  text-align: center;
+}
+
+.center {
+	text-align : center;
+}
+
+.left {
+	text-align : left;
+}
+
+.right {
+	text-align : right;
+}
+
+.card {
+    margin-bottom: 0px;
+}
+
+.oney-green {
+	color: #8BBC06;
+}
+
+.inline {
+	display: inline;
+}
+
+.solution-chosed {
+     border-color: #8BBC06;
+}
+
+.clickable-card {
+	cursor: pointer;
+}
+
+#oney-slider-internal .slider-handle  {
+	background: #8BBC06;
+}
+
+#oney-slider-internal .slider-selection {
+	background: #8BBC06;
+}
+
+#oney-slider-internal .in-selection {
+	background: #8BBC06;
+}
+
+#slider-card {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
